@@ -1,3 +1,0 @@
-[2025-08-28T12:19:21.147Z] [LOG] Myafricell background refresh - test
-[2025-08-28T12:22:20.409Z] [LOG] Myafricell background refresh - test
-[2025-08-28T12:24:48.263Z] [LOG] Myafricell background refresh - test
