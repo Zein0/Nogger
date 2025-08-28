@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-logging-api",
+  "name": "nogger",
   "version": "1.0.0",
   "description": "Node.js API server for logging events from React Native app",
   "main": "server.js",
