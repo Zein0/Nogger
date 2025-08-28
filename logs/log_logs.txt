@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-28T12:19:21.147Z",
+  "type": "log",
+  "title": "Myafricell background refresh",
+  "description": "test",
+  "metadata": {
+    "userAgent": "okhttp/4.12.0",
+    "ip": "::1",
+    "source": "react-native-app"
+  }
+}
+==================================================
+{
+  "timestamp": "2025-08-28T12:22:20.409Z",
+  "type": "log",
+  "title": "Myafricell background refresh",
+  "description": "test",
+  "metadata": {
+    "userAgent": "okhttp/4.12.0",
+    "ip": "::1",
+    "source": "react-native-app"
+  }
+}
+==================================================
+{
+  "timestamp": "2025-08-28T12:24:48.263Z",
+  "type": "log",
+  "title": "Myafricell background refresh",
+  "description": "test",
+  "metadata": {
+    "userAgent": "okhttp/4.12.0",
+    "ip": "::1",
+    "source": "react-native-app"
+  }
+}
+==================================================
